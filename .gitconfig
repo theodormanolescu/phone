@@ -1,0 +1,23 @@
+[core]
+	editor = nvim
+[init]
+	defaultBranch = develop
+[user]
+	email = theodor.manolescu14@gmail.com
+    name = Theodor Manolescu
+[alias]
+    st = status
+    ci = commit
+    co = checkout
+    br = branch
+    poh = push origin HEAD
+[color]
+  status = auto
+  diff = auto
+  branch = auto
+  interactive = auto
+  grep = auto
+  ui = auto
+[github]
+	user = theodormanolescu
+
